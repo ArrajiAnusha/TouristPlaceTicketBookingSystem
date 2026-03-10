@@ -16,12 +16,19 @@ ________________________________________________________________________________
 ##  Features
 
 ✔ User Login System  
-✔ View Tourist Places  
+
+✔ View Tourist Places 
+
 ✔ Available Tourist places
+
 ✔ Book Tourist Tickets  
+
 ✔ Store Booking Details in Database  
+
 ✔ Amin login
+
 ✔ My Bookings
+
 ✔ All user ticket booking data
 
 <img width="1920" height="905" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/bf9aa506-dcf3-469b-af6d-691720d6f891" />
