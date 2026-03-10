@@ -1,0 +1,58 @@
+@charset "UTF-8";
+body{
+	background-image:url(https://cdn.pixabay.com/photo/2016/07/05/00/28/background-1497873_1280.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+h1{
+	border:2px solid black;
+	height:58px;
+	width:800px;
+	background-color:white;
+	opacity:0.6;
+	border-radius:40px;
+	text-align:center;
+	position:relative;
+	top:50px;
+	left:350px;
+	font-size:40px;
+	
+}
+form{
+	border:2px solid black;
+	width:300px;
+	height:300px;
+	position:relative;
+	left:580px;
+	top:80px;
+	background-color:white;
+	opacity:0.6;
+	border-radius:50px;
+
+	
+}
+button{
+	width:140px;
+	height:50px;
+	border-radius:20px;
+	padding:10px;
+	position: relative;
+	left:75px;
+	top:80px;
+	font-size:25px;
+    
+}
+a{
+	text-decoration-line:none;
+	color:black;
+}
+#a1{
+	width:150px;
+	height:50px;
+	border-radius:20px;
+	padding:10px;
+	position: relative;
+	left:75px;
+	top:80px;
+	font-size:20px;
+}

@@ -1,0 +1,42 @@
+@charset "UTF-8";
+body{
+	background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAL0AAAELCAMAAAC77XfeAAAAA1BMVEXr0f7A6yneAAAASElEQVR4nO3BMQEAAADCoPVPbQ0PoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADeDcYqAAE00FRDAAAAAElFTkSuQmCC);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+form{
+	border:2px solid black;
+	height:300px;
+	width:500px;
+	position:relative;
+	left:500px;
+	top:200px;
+	background-color:white;
+	opacity:0.6;
+	border-radius:50px 0px;
+}
+h1{
+	border:2px solid black;
+	width:300px;
+	height:40px;
+	position:relative;
+	left:100px;
+	top:40px;
+	border-radius:40px;
+	text-align:center;
+	
+}
+button{
+	width:200px;
+	height:50px;
+	border-radius:20px;
+	padding:10px;
+	position: relative;
+	left:150px;
+	top:80px;
+	font-size:20px;
+}
+a{
+	text-decoration-line:none;
+	color:black;
+}

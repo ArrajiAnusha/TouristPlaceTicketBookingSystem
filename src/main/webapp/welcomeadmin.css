@@ -1,0 +1,59 @@
+@charset "UTF-8";
+body{
+	background-image:url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw0NDQgNCAgHBwcIBw0HBwcHBw8ICQcNFREWFhURFRMYHSggGBolGxMTITEhJSkrLi4uFx8zODMsNygtOjcBCgoKDg0NDg8NDisZFRkrKys3KysrLSsrKzctKzcrLSsrKy0rKystKysrKy0rNys3KysrNysrKysrKystKysrK//AABEIAL0BCwMBIgACEQEDEQH/xAAZAAEBAQEBAQAAAAAAAAAAAAABAAIDBAf/xAAmEAEBAAIBAwMDBQAAAAAAAAAAAQIREgMxYSFRgRNBsTKR4fDx/8QAGAEBAQEBAQAAAAAAAAAAAAAAAQACAwT/xAAYEQEBAQEBAAAAAAAAAAAAAAAAARESAv/aAAwDAQACEQMRAD8A+top6HAFJFJKJJFIoohKQqEJJDki0mOYuSwac+pPlytWSjcmM2orRkKBOhaChYpk1EnDLBzy6T13EcW56FjxfRZy6Unf48vdlJP73ceG7u/E9mp7YseS9NfS8PZwHFrscvL9IzpvTxHFdHlyxxba0tM2l6EU4tBFIhFJKFIFFK0IsZZs5ZMW92p5Gt3NnbEpakZ1rZ2zI1IkjIZGpBpZaxi06YwWlcXLqYvQ50Slx+lr9N37y/drF0FjWjAiAmLN91psNBnTOm2aUzYK1WaQzQaGg9KScW0kkkkQkkklaL6ueeTMzM8i1ZMOt9WNNxmiNyKYuuOItOM44NzBqNRm1qRmYmYtQxnTjNijTFRNrJRARRQ0GhUGQaLShWbTazSBazTQ0BQaCnqRWnFoJJJInSI0555f66ZOeUUFc8p8+Y56dOOu1/kyeNV0lYZxdZNszF0kFphkaBYrRMBgJMBiKrFOVZUCjQJSBSIFIpDNFaZIZrNaoIZZbrNaDNBoKesouDQRVREakYoueitZzy9b4uhtktYzqOkUsUaEjWvFCRBBMMBBJCqLGVUBhBMBiJBQTIpoKApFIZrNaZrTIrNarNaDNBoKe06Wi4NhUipMZOWTtk5ZNRmsmIxoIpAtStTK+7BBb5X3W77stArRihCTOd+zTPHz+yhZMMxhISBSKoSIopFIFZrTNQFZarNagFZporQZoNBD31m5HJytcZG7WrmObFoaxnWrkzUikQUilCCYYIQWkCCSyYEXO9++vMdXLL8KGrlfv6tTJiUtBoskIoJJUUilCsmhAVlqitBms1qs1oM0NVkwPbk5U3JnbnGqKkiEUkkkgiQYiYRCCSCCjBGoEXLPu6ufVnZRMmMtNApJJJJJAhICkUoVmmitQCiqggVlqskOxSc0kkkkkiitFJEEFGAxIwiGAkwGAmM9SejQyScTAWgYQUkkkgqkkGaaKQKzTRWkAQQzQaGg7opySBoSSRRKSSRBCRSRMIhBJjMaCKBBccu6h6jMbjLRZjSQqSRQIKApCArNarNaAFIpDKSaD0JJyIWikQUkkkgjCCkkiiiIQVClAiRDEWM45uuTk1BTCySCCAklQUqy0yQBSKQBSKUyDQ0HqSTiUGtK4/nS1MpNaRCKSSSSKBRRiQRSIKISSrjk7VzyMFZK0tEJJJKhIpCpFBmmikAU0ECstAp//9k=);
+background-repeat:no-repeat;
+	background-size:cover;
+
+
+}
+h1{
+	border:2px solid black;
+	height:58px;
+	width:800px;
+	background-color:white;
+	opacity:0.6;
+	border-radius:40px;
+	text-align:center;
+	position:relative;
+	top:50px;
+	left:350px;
+	font-size:40px;
+}
+button{
+	width:300px;
+	height:50px;
+	border-radius:20px;
+	padding:10px;
+	position: relative;
+	left:80px;
+	top:160px;
+	font-size:20px;
+}
+a{
+	text-decoration-line:none;
+	color:black;
+}
+#a1{
+	width:300px;
+	height:50px;
+	border-radius:20px;
+	padding:10px;
+	position: relative;
+	left:120px;
+	top:160px;
+	font-size:20px;
+}
+div{
+		border:2px solid black;
+	height:400px;
+	width:800px;
+	position:relative;
+	left:350px;
+	top:80px;
+	background-color:white;
+	opacity:0.6;
+	border-radius:40px;
+	
+}
+
+

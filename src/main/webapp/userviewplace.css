@@ -1,0 +1,79 @@
+@charset "UTF-8";
+body{
+	background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTZDzEO5b-PfV3ofaeoY2dGsmwiaF1MG9tcQ&s);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+h1{
+	border:2px solid black;
+	height:58px;
+	width:800px;
+	background-color:white;
+	opacity:0.6;
+	border-radius:40px;
+	text-align:center;
+	position:relative;
+	top:50px;
+	left:400px;
+	font-size:40px;
+	
+}
+table{
+	position:relative;
+	left:740px;
+	top:-80px;
+}
+form{
+	border:2px solid black;
+	width:300px;
+	height:300px;
+	position:relative;
+	left:580px;
+	top:80px;
+	background-color:white;
+	opacity:0.6;
+	border-radius:50px;
+
+	
+}
+input{
+	position:relative;
+	left:400px;
+	top:40px;
+	width:200px;
+	height:30px;
+	border-radius:20px;
+}
+button{
+	width:80px;
+	height:30px;
+	border-radius:20px;
+	padding:10px;
+	position: relative;
+	left:420px;
+	top:50px;
+	font-size:15px;
+}
+a{
+	text-decoration-line:none;
+	color:black;
+}
+#a1{
+	width:240px;
+	height:50px;
+	border-radius:20px;
+	padding:10px;
+	position: relative;
+	left:720px;
+	top:-50px;
+	font-size:20px;
+}
+p{
+	width:80px;
+	height:30px;
+	
+	position: relative;
+	left:420px;
+	top:60px;
+	font-size:15px;
+}
