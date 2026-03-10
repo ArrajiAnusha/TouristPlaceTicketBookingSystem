@@ -1,4 +1,4 @@
-#  Tourist Place Ticket Booking System
+#  Tourist Place Ticket Booking Application
 
 A **tourist ticket booking application** developed using **Java Servlets, JDBC, MySQL, HTML, and CSS**.  
 The system allows users to explore tourist destinations, view ticket prices, and book tickets online easily.
